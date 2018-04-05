@@ -3,6 +3,10 @@ body {
     background: whitesmoke;
 }
 
-header {
+.banner {
+    image-orientation: center;
+}
+
+.persona {
     text-align: center;
 }
